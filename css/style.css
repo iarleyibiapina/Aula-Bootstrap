@@ -1,0 +1,49 @@
+body{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar { 
+    background-color: green;
+}
+
+.quem-somos{
+    background-color: #483D8B;
+    color: wheat;
+}
+
+.margin{
+    padding-bottom: 40px;
+}
+
+.hh3{
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+
+.parceiros{
+    background-color: #00BFFF;
+    color: wheat;
+}
+
+.servicos{
+    background-color: #483D8B;
+    color: wheat;
+    padding-bottom: 20px;
+}
+
+.bg-footer{
+  background-color: black;
+  color: wheat;  
+}
+
+.voltar{
+    font-size: 20px;
+    text-align: center;
+    border: 5px solid wheat;
+}
+
+.texto-voltar{
+    padding-top: 10px;
+}
+
